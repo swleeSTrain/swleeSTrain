@@ -33,10 +33,10 @@ Java · Python · Node.js · React · Vue · Spring Boot · TypeScript · Postgr
 
 ### DevOps & DB
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,kubernetes,postgres,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,postgres,mysql,mariadb,git" />
 </p>
 
-> Also used: **Azure, Google Cloud, PostgreSQL, AWS Lambda, EKS, DynamoDB**
+> Also used: **Azure, PostgreSQL, AWS Lambda, EKS, DynamoDB**
 
 ---
 
