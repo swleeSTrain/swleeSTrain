@@ -23,7 +23,7 @@ Java · Python · Node.js · React · Vue · Spring Boot · TypeScript · Postgr
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,python,fastapi,spring,nodejs,express" />
 </p>
 
 ### Frontend
@@ -33,7 +33,7 @@ Java · Python · Node.js · React · Vue · Spring Boot · TypeScript · Postgr
 
 ### DevOps & DB
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,kubernetes,postgres,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,kubernetes,terraform,githubactions,nginx,linux,postgres,mysql,git" />
 </p>
 
 > Also used: **Azure, Google Cloud, PostgreSQL, AWS Lambda, EKS, DynamoDB**
