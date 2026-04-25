@@ -51,6 +51,17 @@ Java · C# · Python · TypeScript · Spring Boot · FastAPI · NestJS · Next.j
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,nginx,linux,git" />
 </p>
 
+### IDE
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode" />
+</p>
+
+### Agent
+<p>
+  <img src="assets/icons/codex.png" width="48" height="48" alt="Codex" />
+  <img src="assets/icons/gemini.svg" width="48" height="48" alt="Gemini" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
